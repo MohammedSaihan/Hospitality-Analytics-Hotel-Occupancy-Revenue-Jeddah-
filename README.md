@@ -6,8 +6,8 @@
 
 ## 🚀 Live Project Links
 
-* 📊 **Power BI Dashboard (Live):** [https://app.powerbi.com/view?r=eyJrIjoiMjc4NGZkYmYtZjg5NC00NjJkLWFlODMtMWQwMTgwNjg5MTFjIiwidCI6IjRkNmJmZDhhLWNlZDItNGUxNi1hOGUwLWM5YzFjYWRlNWFjYiJ9](https://app.powerbi.com/view?r=eyJrIjoiMjc4NGZkYmYtZjg5NC00NjJkLWFlODMtMWQwMTgwNjg5MTFjIiwidCI6IjRkNmJmZDhhLWNlZDItNGUxNi1hOGUwLWM5YzFjYWRlNWFjYiJ9) *(replace with your public link)*
-* 💻 **GitHub Repository:** [https://github.com/MohammedSaihan/Hospitality-Analytics-Hotel-Occupancy-Revenue-Jeddah-.git](https://github.com/MohammedSaihan/Hospitality-Analytics-Hotel-Occupancy-Revenue-Jeddah-.git) *(replace with exact repo)*
+* 📊 **Power BI Dashboard (Live):** [https://app.powerbi.com/view?r=eyJrIjoiMjc4NGZkYmYtZjg5NC00NjJkLWFlODMtMWQwMTgwNjg5MTFjIiwidCI6IjRkNmJmZDhhLWNlZDItNGUxNi1hOGUwLWM5YzFjYWRlNWFjYiJ9](https://app.powerbi.com/view?r=eyJrIjoiMjc4NGZkYmYtZjg5NC00NjJkLWFlODMtMWQwMTgwNjg5MTFjIiwidCI6IjRkNmJmZDhhLWNlZDItNGUxNi1hOGUwLWM5YzFjYWRlNWFjYiJ9) 
+* 💻 **GitHub Repository:** [https://github.com/MohammedSaihan/Hospitality-Analytics-Hotel-Occupancy-Revenue-Jeddah-.git](https://github.com/MohammedSaihan/Hospitality-Analytics-Hotel-Occupancy-Revenue-Jeddah-.git) *
 * 🔗 **LinkedIn Profile:** [https://www.linkedin.com/in/mohammed-saihan-a565893a7/](https://www.linkedin.com/in/mohammed-saihan-a565893a7/)
 
 ---
