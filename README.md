@@ -1,48 +1,64 @@
 # 🏨 Hospitality Analytics – Hotel Occupancy & Revenue (Jeddah)
 
+> **A business-focused analytics case study analyzing hotel occupancy, revenue, and seasonal demand trends in Jeddah, Saudi Arabia using SQL and Power BI.**
 
-## 📌 Project Overview
+---
 
-This project analyzes hotel booking, occupancy, and revenue performance for hotels operating in **Jeddah, Saudi Arabia**. The objective is to help hotel management understand **demand patterns, revenue drivers, and seasonal trends** to support data-driven pricing and operational decisions.
+## 🚀 Live Project Links
 
-The analysis focuses on key hospitality KPIs such as **Occupancy Rate (proxy), Average Daily Rate (ADR), Revenue per Available Room (RevPAR), and Cancellation Rate**.
+* 📊 **Power BI Dashboard (Live):** [https://app.powerbi.com/view?r=eyJrIjoiMjc4NGZkYmYtZjg5NC00NjJkLWFlODMtMWQwMTgwNjg5MTFjIiwidCI6IjRkNmJmZDhhLWNlZDItNGUxNi1hOGUwLWM5YzFjYWRlNWFjYiJ9](https://app.powerbi.com/view?r=eyJrIjoiMjc4NGZkYmYtZjg5NC00NjJkLWFlODMtMWQwMTgwNjg5MTFjIiwidCI6IjRkNmJmZDhhLWNlZDItNGUxNi1hOGUwLWM5YzFjYWRlNWFjYiJ9) *(replace with your public link)*
+* 💻 **GitHub Repository:** [https://github.com/MohammedSaihan/Hospitality-Analytics-Hotel-Occupancy-Revenue-Jeddah-.git](https://github.com/MohammedSaihan/Hospitality-Analytics-Hotel-Occupancy-Revenue-Jeddah-.git) *(replace with exact repo)*
+* 🔗 **LinkedIn Profile:** [https://www.linkedin.com/in/mohammed-saihan-a565893a7/](https://www.linkedin.com/in/mohammed-saihan-a565893a7/)
+
+---
+
+## 📌 Project Summary
+
+Jeddah is a major hub for **religious tourism, business travel, and hospitality operations** in Saudi Arabia. Hotels operating in this region require continuous monitoring of **occupancy, pricing, and revenue performance** to remain competitive.
+
+This project transforms raw hotel booking data into **actionable insights** that help hotel management:
+
+* Understand demand patterns
+* Optimize pricing strategies
+* Identify high-performing room and hotel types
+* Monitor cancellations and revenue impact
 
 ---
 
 ## 🎯 Business Objectives
 
 * Analyze hotel booking and revenue trends over time
-* Identify high-demand seasons and peak booking periods
-* Compare revenue performance across hotel and room types
-* Measure booking behavior, stay duration, and cancellations
-* Support strategic pricing and capacity planning decisions
+* Identify seasonal demand patterns and peak travel periods
+* Measure hospitality KPIs such as ADR and RevPAR
+* Compare revenue performance across hotel and room categories
+* Support data-driven pricing and operational decisions
 
 ---
 
-## 🗂 Dataset Description
+## 🗂 Dataset Overview
 
-The dataset represents hotel booking transactions with the following attributes:
+The dataset represents hotel booking transactions with attributes including:
 
 * Booking and stay dates
-* Hotel and room categories
+* Hotel and room types
 * Guest composition
-* Stay duration and pricing
+* Length of stay and pricing
 * Booking status (Checked-out / Cancelled)
 
-Derived fields such as **month, day type (weekday/weekend), ADR, and RevPAR** were calculated during analysis.
+Several analytical fields were derived, such as **month, weekday/weekend classification, ADR, and RevPAR**.
 
 ---
 
 ## 🛠 Tools & Technologies
 
-* **SQL** – Data aggregation, KPI calculation, trend analysis
-* **Power BI** – Interactive dashboards and data visualization
-* **Excel** – Data validation and quick checks
-* **GitHub** – Project documentation and version control
+* **SQL** – Data cleaning, aggregation, KPI calculation
+* **Power BI** – Interactive dashboards and storytelling
+* **Excel** – Data validation and sanity checks
+* **GitHub** – Documentation and project versioning
 
 ---
 
-## 📊 Key KPIs & Metrics
+## 📊 Key KPIs Tracked
 
 * **Total Revenue**
 * **Total Bookings**
@@ -53,74 +69,55 @@ Derived fields such as **month, day type (weekday/weekend), ADR, and RevPAR** we
 
 ---
 
-## 📈 Analysis Performed
+## 📈 Analysis Highlights
 
-### 1️⃣ Booking & Demand Analysis
+### 🔹 Booking & Demand Analysis
 
 * Monthly booking trends
 * Weekend vs weekday demand comparison
-* Identification of peak demand months
+* Identification of high-demand seasons
 
-### 2️⃣ Revenue Performance
+### 🔹 Revenue Performance
 
 * Monthly revenue trends
 * Revenue contribution by hotel type
 * Revenue contribution by room type
 
-### 3️⃣ Stay & Customer Behavior
+### 🔹 Stay & Cancellation Behavior
 
-* Average length of stay
-* Booking volume as occupancy proxy
-* Cancellation rate analysis
+* Average length of stay analysis
+* Occupancy proxy using booking volume
+* Cancellation rate impact on revenue
 
 ---
 
-## 📊 Power BI Dashboard Summary
+## 📊 Power BI Dashboard Pages
 
-The Power BI dashboard consists of multiple pages:
-
-### 🔹 Executive Overview
-
-* Revenue, bookings, ADR, RevPAR KPIs
-* Monthly revenue and booking trends
-
-### 🔹 Occupancy & Stay Analysis
-
-* Weekend vs weekday bookings
-* Average stay duration
-
-### 🔹 Revenue Performance
-
-* Revenue by hotel type
-* Revenue by room type
-
-### 🔹 Bookings & Cancellation
-
-* Cancellation rate
-* Seasonal booking patterns
-
-### 🔹 Business Insights
-
-* Clear insights highlighting demand spikes and pricing opportunities
+* **Executive Overview** – Revenue, bookings, ADR, RevPAR
+* **Occupancy & Stay Analysis** – Weekend vs weekday trends
+* **Revenue Performance** – Hotel and room type insights
+* **Bookings & Cancellations** – Seasonal demand patterns
+* **Business Insights** – Management-focused recommendations
 
 ---
 
 ## 💡 Key Business Insights
 
-* Booking and revenue peak during seasonal travel periods, indicating strong demand-driven pricing opportunities
-* Weekend stays generate higher booking volumes than weekdays
-* Certain room types consistently outperform others in revenue contribution
-* Cancellations impact revenue stability and should be monitored closely during peak seasons
+* Revenue and bookings peak during seasonal travel periods, indicating strong demand-driven pricing opportunities
+* Weekend stays consistently generate higher booking volumes
+* Certain room types outperform others in revenue contribution
+* Cancellations significantly impact revenue stability during peak periods
 
 ---
 
 ## ✅ Conclusion
 
-This project demonstrates how hospitality data can be transformed into **actionable business insights** using SQL and Power BI. The dashboard enables hotel stakeholders to monitor performance, identify demand patterns, and optimize pricing and operations—particularly in a high-demand market like **Jeddah**.
+This project demonstrates the ability to convert hospitality data into **business-ready insights** using SQL and Power BI. The analysis supports strategic decision-making in pricing, occupancy management, and revenue optimization—particularly relevant for the **Saudi hospitality market**.
 
 ---
 
-## 📌 Author
+## 👤 Author
 
 **Mohammed Saihan**
-Data Analyst | Power BI | SQL | Business Analytics
+Data Analyst | SQL | Power BI | Business Analytics
+📍 Saudi Arabia (Jeddah / Riyadh)
